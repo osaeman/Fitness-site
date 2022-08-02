@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Product</title>
+    <link
+      rel="stylesheet"
+      href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+      integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p"
+      crossorigin="anonymous"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <!-- --------------------Modal Section------------------------ -->
+    <div class="modal_container">
+      <div class="modal_content">
+        <div class="close_btn">
+          <i class="far fa-times"></i>
+        </div>
+
+        <div class="modal_form">
+          <form id="form">
+            <label for="">Full Name</label>
+            <input type="text" required />
+
+            <label for="">E-mail </label>
+            <input type="email" required />
+
+            <label for="">Contact Number</label>
+            <input type="text" required />
+
+            <label for="">Address</label>
+            <input type="text" required />
+
+            <button>Confirm</button>
+          </form>
+        </div>
+      </div>
+    </div>
+    <!-- ------------------Navbar----------------- -->
+    <div class="header_container">
+      <div class="header_content">
+        <div class="navbar_brandname">
+          <img
+            src="./images/image1-removebg-preview-trimmy.png"
+            class="logo"
+            alt=""
+          />
+        </div>
+
+        <div class="navigation_menus">
+          <ul>
+            <li class="navbar_iems"><a href="index.html">Home</a></li>
+            <li>
+              <a href="/productInfo.html">Our Products</a>
+            </li>
+            <li>
+              <a href="/about.html">About Us</a>
+            </li>
+            <li>
+              <a href="/contact.html">Contact Us</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- Mobile version of navbar -->
+    <div class="header_container_mobile">
+      <div class="header_content_mobile">
+        <div class="navbar_brandname_mobile">
+          <img
+            src="./images/image1-removebg-preview-trimmy.png"
+            class="logo"
+            alt=""
+          />
+        </div>
+        <i class="fal fa-bars hamburger_icon"></i>
+      </div>
+
+      <div class="hamburger_menu">
+        <ul>
+          <li class="navbar_iems"><a href="index.html">Home</a></li>
+          <li>
+            <a href="/productInfo.html">Our Products</a>
+          </li>
+          <li>
+            <a href="/about.html">About Us</a>
+          </li>
+          <li>
+            <a href="/contact.html">Contact Us</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <!---------------------------Product section ---------------------- -->
+
+    <div class="product_outer_container">
+      <div class="product_inner_container"></div>
+    </div>
+
+    <!-- --------------Reviews Section---------------- -->
+    <div class="reviews_section">
+      <h2>Reviews</h2>
+    </div>
+
+    <!-- ----------Footer------------- -->
+    <footer>
+      <div class="footer_container">
+        <div class="footer_flexbox">
+          <div class="footer_logo">
+            <img src="./images/image1-removebg-preview-trimmy.png" alt="" />
+          </div>
+          <div class="footer_div2">
+            <ul>
+              <li>
+                <h1>Navigations</h1>
+              </li>
+              <li>
+                <a href="/index.html">Home</a>
+              </li>
+              <li>
+                <a href="/productInfo.html">Our Products</a>
+              </li>
+              <li>
+                <a href="/contact.html">Conatct Us</a>
+              </li>
+              <li>
+                <a href="/about.html">About Us</a>
+              </li>
+            </ul>
+
+            <ul>
+              <li>
+                <h1>Email</h1>
+              </li>
+              <li>
+                <a href="">befitequipment@gmail.com</a>
+              </li>
+            </ul>
+          </div>
+          <div class="footer_div3">
+            <ul>
+              <li>
+                <h1>Location</h1>
+              </li>
+              <li>10 Furry Park Clogrhan, Swords Rd, Dublin Co.</li>
+            </ul>
+
+            <ul>
+              <li>
+                <h1>Opening Hours</h1>
+              </li>
+              <li>Monday - Friday: 9am - 5pm</li>
+              <li>Saturday - Sunday: 10am - 4pm</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- ----------script------ -->
+    <script src="./js/productInfo.js"></script>
+  </body>
+</html>

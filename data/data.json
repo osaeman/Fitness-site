@@ -1,0 +1,131 @@
+[
+  {
+    "id": "1",
+    "name": "Bolt Strength Semi Commercial Bench",
+    "description": "The Bolt Strength Semi Commercial FID Bench is a great addition to any home gym or personal training studio. The bench has foot holds and is fully adjustable, making it excellent for decline work and sit-ups.",
+    "price": "325",
+    "image": "../images/image4.png",
+    "reviews": [
+      "Very quick delivery. Great value for money.",
+      "Great for a beginner.",
+      "Good product, solid and works well. Fast delivery",
+      "Great service. Quality equipment."
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Bolt Strength Leg Extension & Leg Curl",
+    "description": "The Bolt Leg Extension and Leg Curl Machine This equipment is ideal for targeting two major muscle groups: quadriceps and hamstrings. It also allows for a quick and easy transition between these two groups. This allows the user to make the most of their time in the gym by not needing to switch machines between sessions. Leg extensions and hamstring curls are two of the most common muscle-building leg workouts performed with this versatile piece of equipment. Leg extension is an important action for developing your quadriceps and patellar ligament.",
+    "price": "2000",
+    "image": "../images/image5.png",
+    "reviews": [
+      "Very quick delivery. Great value for money.",
+      "Great for a beginner.",
+      "Good product, solid and works well. Fast delivery",
+      "These guys are legit when it comes to getting fitness equipment. Decent prices, good range, and for the money, the quality is pretty damn solid. But, without doubt, the best part is they ship orders super super super quick, like I ordered some weights on a Monday lunchtime and by Tues evening I had them in my gym. They don't mess about. Can't rate highly enough."
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Treadmill",
+    "description": "The Bolt T90 is the greatest treadmill for a workout! This treadmill has a number of advantages, including the fact that it can be used by people of all fitness levels and requires no prior knowledge. ",
+    "price": "1250",
+    "image": "../images/image6.jpg",
+    "reviews": [
+      "Very quick delivery. Great value for money.",
+      "Great for a beginner.",
+      "Good product, solid and works well. Fast delivery",
+      "Great service. Quality equipment."
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Bolt Strength Linear Leg Press",
+    "description": "The Bolt Strength ISO Linear Leg Press is a machine that allows the user to increase glute strength, tonify, and strengthen their legs. This machine's design is ergonomically sound, allowing for a more secure posture while training.",
+    "price": "2000",
+    "image": "../images/image7.jpg",
+    "reviews": [
+      "Very quick delivery. Great value for money.",
+      "Great for a beginner.",
+      "Good product, solid and works well. Fast delivery",
+      "Fast delivery, great prices and great communication",
+      "Always top class 5 stars",
+      "Good product, solid and works well. Fast delivery"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Bolt Mpro 2.0",
+    "description": "Bolt Mpro 2.0 is designed and constructed with a 13 kg inertia enhanced flywheel and commercial-grade steel construction.",
+    "price": "1000",
+    "image": "../images/image8.jpg",
+    "reviews": [
+      "Very quick delivery. Great value for money.",
+      "Great for a beginner.",
+      "Good product, solid and works well. Fast delivery",
+      "Great service. Quality equipment."
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Bolt X Pro Crosstrainer",
+    "description": "The Bolt X Pro Cross Trainer is ideal for use in any gym or at home. This product enables high-intensity aerobic workouts with minimal impact and joint stress. Because it works the entire body, this machine is great for both upper and lower body workouts. This product provides consumers with a lot of diversity thanks to its 32 resistance levels. This elliptical machine can help people maintain fitness after an injury by improving their balance.",
+    "price": "2500",
+    "image": "../images/image9.png",
+    "reviews": [
+      "Very quick delivery. Great value for money.",
+      "Great for a beginner.",
+      "Good product, solid and works well. Fast delivery",
+      "Easy purchase, great product, easy collection and great customer service assisting me to bring the item to my car. Would definitely shop again"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Tri Grip Iron Weight Plates",
+    "description": "Tri Grip Plates are high-performance muscle-building plates that can be used to supplement your current muscle-building practice. The unique 'easy grip' feature of the Tri Grip Plate comprises of three hand slots evenly spaced around the plate. They also aid in the appropriate distribution of weight. This ensures that your time is spent exercising rather than putting together equipment. Individually, the Trip Grip Weight Plates can be utilized for overhead lifts and tricep training. They can be used in conjunction with an Olympic Bar as well.",
+    "price": "85",
+    "image": "../images/image10.jpg",
+    "reviews": [
+      "Very quick delivery. Great value for money.",
+      "Great for a beginner.",
+      "Good product, solid and works well. Fast delivery",
+      "Great service. Quality equipment."
+    ]
+  },
+  {
+    "id": "8",
+    "name": "7ft Olympic Bar (20KG) – 1000lb",
+    "description": "Befit equipment and solutions manufactures and sells our very own BOLT Olympic Bars! This professional-grade Olympic Bar with four bearings is a sturdy and long-lasting training item that will help you improve your bench press. Olympic Weights from Befit are constructed with significantly more precision than Standard Weights. As you may know, it may seem stupid to be concerned about minor imperfections in gym equipment, particularly plates; yet, uneven loading of an olympic bar can throw off not just the accuracy of your record-keeping, but also your max or near-max lifts.",
+    "price": "125",
+    "image": "../images/image11.jpg",
+    "reviews": [
+      "Very quick delivery. Great value for money.",
+      "Great for a beginner.",
+      "Great service. Quality equipment."
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Cast Iron Kettlebells",
+    "description": "To ensure that our kettlebells are smooth and easy to use, they are powder coated to the highest standard. They look and feel fantastic in the hands. Cast Iron Kettlebells are a piece of equipment that can be used for a variety of activities including squats, lunges, crunches, and presses, offering the fitness user a whole body workout. The ergonomic type handles are designed to offer comfort, allowing you to concentrate on your repetitions and achieving your weight training goals.",
+    "price": "87.45",
+    "image": "../images/image12.jpg",
+    "reviews": [
+      "Very quick delivery. Great value for money.",
+      "Great for a beginner.",
+      "Good product, solid and works well. Fast delivery",
+      "Great service. Quality equipment."
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Reebok Deck",
+    "description": "Decks by Reebok are a high-end workout platform that can be reconfigured into a variety of postures. When it comes to aerobics steps, Reebok is the undisputed king, and the Deck steps demonstrate why. It's a high-quality item with a two-year manufacturer warranty. The Deck can be used in a variety of ways, including as a flat bench, a step, and a seat. As a result, the seat can be used for a range of exercises. The deck itself is 12kg, ensuring that it is not only robust but also non-slip during your workout. The maximum load capacity is 110 kg (242lb).",
+    "price": "185",
+    "image": "../images/image13.jpg",
+    "reviews": [
+      "Very quick delivery. Great value for money.",
+      "Good product, solid and works well. Fast delivery"
+    ]
+  }
+]
